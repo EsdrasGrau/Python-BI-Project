@@ -68,6 +68,9 @@ As mentioned before our client wants to be located in Seattle but is open to exp
    2. detail_clustering.html
    3. proposed_site.html
 
+## Time 
+
+2 days
 ## Author
 ```
 |‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾|
@@ -78,5 +81,3 @@ As mentioned before our client wants to be located in Seattle but is open to exp
 / 　 づ
 I'm a ferret, not a rabbit o(>ω<)o 
 ```
-
-
