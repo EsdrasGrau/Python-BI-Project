@@ -71,12 +71,16 @@ As mentioned before our client wants to be located in Seattle but is open to exp
 ## Time 
 
 2 days
+
 ## Author
+
+`EsdrasGrau`
+
 ```
 |‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾|
 | CODING FERRET     |
 |___________________|
-(\__/) || 
+(\__/) || 
 (•ㅅ•) || 
 / 　 づ
 I'm a ferret, not a rabbit o(>ω<)o 
