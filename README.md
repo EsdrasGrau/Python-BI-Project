@@ -8,7 +8,7 @@
 
 
 
-# Python-bi-project 
+# Python BI project applying  MongoDB & Folium 
 
 For this project, I chose a certain Japanese bakery with 107 years of history that originally started in Seattle, USA. As expansion project, they are interested in going back to Seattle, the company hometown and have a location where they can showcase their long history and be part of one of the most vibrant cities in the USA. 
 
